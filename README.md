@@ -1,2 +1,3 @@
 # demo-project
-This is my first git repositories
+This is my first git repository.
+Author - Saikat Bisai
